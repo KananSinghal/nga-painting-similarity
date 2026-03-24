@@ -1,3 +1,6 @@
+[Jupyter file](https://www.google.com/url?q=https://drive.google.com/file/d/1tvw-udN20U4LQo7mG32s-fRms2CB9oKl/view?usp%3Dsharing&sa=D&source=editors&ust=1774365521455659&usg=AOvVaw2nnH6JzIvncqRmBWn5xc-5)
+[PDF](https://www.google.com/url?q=https://drive.google.com/file/d/1UXlEU2-l7wcDYPqkBykyllV1-pYfLsFB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1774365521455404&usg=AOvVaw2KXMHr1S1qyEaVuHh2AILX)
+
 # nga-painting-similarity
  A model to find similarities in paintings, e.g. portraits with a similar face or pose
 
