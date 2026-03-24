@@ -1,0 +1,17 @@
+# Data Processing & Linear Algebra
+numpy
+pandas
+
+# Machine Learning & Computer Vision
+torch
+torchvision
+mediapipe
+opencv-python
+
+# Vector Search
+faiss-cpu  
+
+# Core AI Models
+ftfy
+regex
+tqdm
